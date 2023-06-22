@@ -1,1 +1,5 @@
-# sdgstoday-myschooltoday
+# My School Today!
+
+<a href="https://sdgstoday.org/myschooltoday">My School Today</a> aims to support students and local communities to geo-reference their schools and education facilities as part of an effort to promote timely information on school locations in Africa. To support this project, SDGs Today provides an accessible product using open source data to share estimates on walking travel time of school age populations to schools recorded in OpenStreetMap. We engage local students, communities, organizations, and other actors in the ongoing development of this dataset, and explore how we can work with education ministries and statistical offices to complement official data sources. We are grateful for the support of the Humanitarian OpenStreetMap Team (HOT), Esri, UNESCO IIEP, WorldPOP, and other organizations in this effort!
+
+The My School Today model, using open source school location data from OpenStreetMap (OSM), gridded population data from WorldPop, and IIEP-UNESCO's school-age interpolation model, and other data layers shares population counts within various travel distances and times from recorded educational facilities. My School Today has also tracked the addition of schools to the OpenStreetMap platform since launching in July 2021.
